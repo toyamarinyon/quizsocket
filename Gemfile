@@ -1,5 +1,6 @@
 source "http://rubygems.org"
+gem "foreman"
 gem "bundler"
-gem "em-websocket"
+gem "em-websocket", "~> 0.5.0"
 gem "sinatra"
 gem "haml"
